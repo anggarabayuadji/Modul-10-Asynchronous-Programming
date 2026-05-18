@@ -1,0 +1,1 @@
+D:\Tugas\ UI\FASILKOM\ 2024\Semester\ 4\PKPL\Tugas\Modul-10-Asynchronous-Programming\timer_future\target\debug\timer_future.exe: D:\Tugas\ UI\FASILKOM\ 2024\Semester\ 4\PKPL\Tugas\Modul-10-Asynchronous-Programming\timer_future\src\lib.rs D:\Tugas\ UI\FASILKOM\ 2024\Semester\ 4\PKPL\Tugas\Modul-10-Asynchronous-Programming\timer_future\src\main.rs
