@@ -15,10 +15,10 @@ Karena durasi timer Task 2 hanya 1 detik (lebih cepat selesai dibanding Task 1),
 ## Screenshots
 
 ### 1. Tanpa `drop(spawner);`
-![Program tidak berhenti tanpa drop](1_3_without_drop.png)
+![Program tidak berhenti tanpa drop](screenshots/1_3_without_drop.png)
 
 ### 2. Dengan `drop(spawner);`
-![Program berhenti otomatis dengan drop](1_3_with_drop.png)
+![Program berhenti otomatis dengan drop](screenshots/1_3_with_drop.png)
 
 ## Analisis
 
